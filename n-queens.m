@@ -1,4 +1,5 @@
 
+
 % N-Queens Solution With Genetic Algorithms
 % Vahid Hallaji <vahid@hallaji.com>
 % Copyright (c) 2005-2014, Vahid Hallaji
